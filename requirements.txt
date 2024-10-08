@@ -1,0 +1,17 @@
+pandas
+numpy
+sentence_transformers
+streamlit
+nltk
+rake_nltk
+python-dotenv
+scikit-learn
+matplotlib
+spacy
+gensim
+groq
+langchain
+llama_index
+llama_index.vector_stores.qdrant
+llama_index.embeddings.huggingface
+llama_index.llms.ollama
